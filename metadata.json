@@ -1,0 +1,7 @@
+{
+  "name": "VisionScript - Image to JSON Converter",
+  "description": "A professional-grade tool that uses Gemini AI to extract structured JSON data and scripts from any image, supporting multiple templates like invoices, recipes, and scene descriptions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
